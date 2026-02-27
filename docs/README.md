@@ -29,4 +29,15 @@ Quality is maintained throughout the cycle via a documented testing strategy, CI
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format and action-item tracking |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities for each project role |
 
+## Templates & Checklists
+
+Reusable artifacts that operationalize the process documents above. Each artifact is owned by a specific role (see [Roles & Personas](octoacme-roles-and-personas.md)).
+
+| Artifact | Owner | Description |
+|----------|-------|-------------|
+| [Risk Register Template](templates/risk-register-template.md) | Risk Manager | Track, assess, and mitigate project risks |
+| [Quality Gates Checklist](checklists/quality-gates-checklist.md) | QA Lead | Phase-gate sign-off criteria across the lifecycle |
+| [Change Log Template](templates/change-log-template.md) | Change Control Coordinator | Log and track all approved project changes |
+| [Stakeholder Communication Plan Template](templates/stakeholder-communication-plan-template.md) | Stakeholder Liaison | Plan and track stakeholder communication |
+
 > For project-specific context used by GitHub Copilot Spaces, add process docs to `.copilot/` in your project repository.
